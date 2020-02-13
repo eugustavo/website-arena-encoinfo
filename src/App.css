@@ -106,7 +106,7 @@ nav-brand{
 .home{
   width: 100%;
   height: 80vh;
-  background: linear-gradient(135deg, rgba(49, 24, 131, 0.9) 0%, rgba(72, 56, 149, 0.8) 100%), url("assets/initial.jpeg") center no-repeat;
+  background: linear-gradient(135deg, rgba(49, 24, 131, 0.9) 0%, rgba(72, 56, 149, 0.8) 100%), url("./assets/initial.jpeg") center no-repeat;
   background-size: cover;
   position: relative;
 }
@@ -117,7 +117,7 @@ nav-brand{
   bottom: -3px;
   width: 100%;
   height: 4.7rem;
-  background: url("assets/wave-small.png");
+  background: url("./assets/wave-small.png");
   background-size: cover;
 }
 
@@ -211,13 +211,13 @@ nav-brand{
 }
 
 .lol{
-  background: url("assets/lol.jpg") center no-repeat;
+  background: url("./assets/lol.jpg") center no-repeat;
 }
 .cs{
-  background: url("assets/csgo.jpg") center no-repeat;
+  background: url("./assets/csgo.jpg") center no-repeat;
 }
 .fifa{
-  background: url("assets/fifa.jpg") center no-repeat;
+  background: url("./assets/fifa.jpg") center no-repeat;
 }
 
 .activities-grid-item i{
