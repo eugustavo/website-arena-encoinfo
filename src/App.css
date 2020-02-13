@@ -7,15 +7,13 @@
 *::after{
   margin: 0;
   padding: 0;
-  box-sizing: inherit;
+  box-sizing: border-box;
 }
+
 html {
   font-family: 'Nunito', sans-serif;
   font-size: 10px;
-  box-sizing: border-box;
   scroll-behavior: smooth;
-
-
   -webkit-font-smoothing: antialiased !important;
 }
 a{
