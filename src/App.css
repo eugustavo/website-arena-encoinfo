@@ -9,7 +9,6 @@
   padding: 0;
   box-sizing: border-box;
 }
-
 html {
   font-family: 'Nunito', sans-serif;
   font-size: 10px;
@@ -35,10 +34,7 @@ section{
 }
 
 
-
-
 /* Header Styles */
-
 header{
   width: 100%;
   height: 5.5rem;
@@ -345,7 +341,7 @@ footer{
   .nav-list{
     width: initial;
     height: initial;
-    background-color: transparent;
+    /* background-color: transparent; */
     position: initial;
     top: initial;
     right: initial;
