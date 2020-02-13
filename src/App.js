@@ -142,7 +142,7 @@ function App() {
             <div className="container">
               <div className="title-heading">
                 <h1 id="contato">Contato</h1>
-                <p> Dúvidas? 🤔 </p>
+                <p> Dúvidas? :D </p>
               </div>
               <div className="contato-grid">
                 
