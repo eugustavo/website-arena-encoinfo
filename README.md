@@ -11,3 +11,4 @@
 - [x] Logo e assets
 - [x] Estilização
 - [x] Responsividade
+- [x] Ancoragem com Scroll
