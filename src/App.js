@@ -42,7 +42,7 @@ function App() {
                 </div>
 
                 <li className="nav-item">
-                  <a href className="nav-link"> Home</a>
+                  <a href="index.html" className="nav-link"> Home</a>
                 </li>
                 <li className="nav-item">
                   <a href="#games" className="nav-link"> Jogos</a>
@@ -51,7 +51,7 @@ function App() {
                   <a href="#contato" className="nav-link"> Contato</a>
                 </li>
                 <li className="nav-item">
-                  <a href className="nav-link current"> Inscrição</a>
+                  <a href="index.html" className="nav-link current"> Inscrição</a>
                 </li>
               </ul>
             </nav>
@@ -71,7 +71,7 @@ function App() {
                 </p>
 
                 <div className="cta">
-                  <a href className="btn"> Saiba mais </a>
+                  <a href="index.html" className="btn"> Saiba mais </a>
                 </div>
               </div>
             </div>
@@ -166,7 +166,7 @@ function App() {
                 </div>
 
               </div>
-              <a href className="btn"> Enviar e-mail </a>
+              <a href="index.html" className="btn"> Enviar e-mail </a>
             </div>
           </section>
 

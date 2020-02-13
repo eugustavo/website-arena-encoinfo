@@ -2,9 +2,7 @@
 @import url('https://fonts.googleapis.com/css?family=Aldrich&display=swap');
 
 /* Global Styles */
-*,
-*::before,
-*::after{
+*{
   margin: 0;
   padding: 0;
   box-sizing: border-box;
@@ -341,7 +339,7 @@ footer{
   .nav-list{
     width: initial;
     height: initial;
-    /* background-color: transparent; */
+    background-color: transparent;
     position: initial;
     top: initial;
     right: initial;
