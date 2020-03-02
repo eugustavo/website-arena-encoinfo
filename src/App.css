@@ -213,7 +213,7 @@ nav-brand{
   left: 0;
   width: 100%;
   height: 100%;
-  background-image: linear-gradient(135deg, rgba(49, 24, 131, 0.9) 0%, rgba(72, 56, 149, 0.8) 100%);
+  background-image: linear-gradient(135deg, rgba(49, 24, 131, 0.9) 10%, rgba(72, 56, 149, 0.8) 50%);
   z-index: -1;
 }
 
@@ -326,13 +326,13 @@ footer{
 @media screen and (min-width: 470px){
   .home::before{
     height: 9.4rem;
-    background: url('./assets/wave-medium.png');
+    background: url('./assets/wave-large.png');
     background-size: cover;
   }
 
   .contato::before{
     height: 9.4rem;
-    background: url('./assets/wave-medium-reversed.png');
+    background: url('./assets/wave-large-reversed.png');
     background-size: cover;
   }
 }
