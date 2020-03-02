@@ -400,6 +400,9 @@ footer{
     background: url('./assets/wave-large-reversed.png');
     background-size: cover;
   }
+  .testimonial{
+    margin-top: 100px;
+  }
 }
 
 @media screen and (min-width: 1200px){
