@@ -134,7 +134,7 @@ nav-brand{
   font-size: 1.6rem;
 }
 .main-message h4{
-  margin-left: 0.9rem;
+  margin-left: 1.1rem;
 }
 .main-message h1{
   font-family: 'Aldrich', sans-serif;
@@ -184,6 +184,7 @@ nav-brand{
   font-family: 'Aldrich', sans-serif;
   font-size: 2rem;
   margin-bottom: .5rem;
+  margin-top: 5rem;
 }
 .title-heading p{
   font-size: 1.2rem;
