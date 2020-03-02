@@ -125,7 +125,7 @@ function App() {
             <div className="container">
               <div className="testimonial">
                 <div className="testimonial-text-box">
-                  <p>Melhor campeonato de e-sports que a ULBRA/CEULP já fez!</p>
+                  <p>Melhor campeonato de e-sports que o CEULP/ULBRA já fez!</p>
                   <i className="icon-quote"><FaQuoteRight /></i>
                 </div>
                 <div className="testimonial-customer">
